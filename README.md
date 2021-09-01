@@ -14,7 +14,7 @@ This was a good hands on excercise to gain insight into both offensive and defen
 - System hardening and configuration.
 - Reporting, documentation, and communication.
 
-The project report was created in Microsoft Power Point. PDF version of the report is available ![here](). The report includes following details:
+The project report was created in Microsoft Power Point. PDF version of the report is available ![here](Final Engagement Attack, Defense & Analysis of a Vulnerable Network.pdf). The report includes following details:
 
 - Network Topology
 - Critical Vulnerabilities
