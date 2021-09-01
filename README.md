@@ -8,6 +8,8 @@ This was a good hands on excercise to gain insight into both offensive and defen
 
 - Penetration testing with Kali Linux.
 - Security Engineering with Elasticsearch Watcher.
+- User enumeration using WPScan.
+- Cracking password hashes using John The Ripper.
 - Network Traffic Analysis with Wireshark.
 - System hardening and configuration.
 - Reporting, documentation, and communication.
