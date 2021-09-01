@@ -6,19 +6,19 @@ As a security engineer I implemented alarms and thresholds in Elasticsearch Watc
 
 This was a good hands on excercise to gain insight into both offensive and defensive security roles. This included application of knowledge of following skills and tools:
 
-Penetration testing with Kali Linux.
-Log and incident analysis with Kibana.
-Network Traffic Analysis with Wireshark.
-System hardening and configuration.
-Reporting, documentation, and communication.
+- Penetration testing with Kali Linux.
+- Log and incident analysis with Kibana.
+- Network Traffic Analysis with Wireshark.
+- System hardening and configuration.
+- Reporting, documentation, and communication.
 
 The project report was created in Microsoft Power Point. PDF version of the report is available ![here](). The report includes following details:
 
-Network Topology
-Critical Vulnerabilities
-Exploits Used
-Avoiding Detection
-Alerts Implemented
-System Hardening Recommendations
-Network Traffic Profile
-Normal and Suspicious Activity
+- Network Topology
+- Critical Vulnerabilities
+- Exploits Used
+- Avoiding Detection
+- Alerts Implemented
+- System Hardening Recommendations
+- Network Traffic Profile
+- Normal and Suspicious Activity
